@@ -44,13 +44,13 @@ This repository contains onboarding guides, reference material, cheat sheets, an
 If you want to add or improve a resource:
 
 1. Open an issue in this repository describing what is missing or incorrect.
-2. Follow the contribution workflow in the [organization CONTRIBUTING.md](https://github.com/aws-gomal-university/.github/blob/main/CONTRIBUTING.md).
+2. Follow the contribution workflow in the [organization CONTRIBUTING.md](https://github.com/aws-sbg-gomal/.github/blob/main/CONTRIBUTING.md).
 3. Keep guides concise and practical. Link to official documentation rather than reproducing it.
 4. All new files must be added to the index table in this README.
 
 ---
 
-For questions or support, visit [GitHub Discussions](https://github.com/aws-gomal-university/.github/discussions) or contact [@i-arshii](https://github.com/i-arshii).
+For questions or support, visit [GitHub Discussions](https://github.com/aws-sbg-gomal/.github/discussions) or contact [@i-arshii](https://github.com/i-arshii).
 
 ---
 
