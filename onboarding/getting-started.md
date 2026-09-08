@@ -10,9 +10,9 @@ Before doing anything else, read the following:
 
 | Document | Location |
 |---|---|
-| Organization README | [.github/README.md](https://github.com/aws-gomal-university/.github/blob/main/README.md) |
-| Code of Conduct | [.github/CODE_OF_CONDUCT.md](https://github.com/aws-gomal-university/.github/blob/main/CODE_OF_CONDUCT.md) |
-| Contribution Workflow | [.github/CONTRIBUTING.md](https://github.com/aws-gomal-university/.github/blob/main/CONTRIBUTING.md) |
+| Organization README | [.github/README.md](https://github.com/aws-sbg-gomal/.github/blob/main/README.md) |
+| Code of Conduct | [.github/CODE_OF_CONDUCT.md](https://github.com/aws-sbg-gomal/.github/blob/main/CODE_OF_CONDUCT.md) |
+| Contribution Workflow | [.github/CONTRIBUTING.md](https://github.com/aws-sbg-gomal/.github/blob/main/CONTRIBUTING.md) |
 
 These are not optional. Every contributor is expected to have read and understood them before submitting any work.
 
@@ -57,9 +57,9 @@ Navigate to your track repository and read its README:
 
 | Track | Repository |
 |---|---|
-| Cloud & DevOps | [cloud-devops-projects](https://github.com/aws-gomal-university/cloud-devops-projects) |
-| AI & Machine Learning | [ai-ml-projects](https://github.com/aws-gomal-university/ai-ml-projects) |
-| Full Stack Development | [fullstack-projects](https://github.com/aws-gomal-university/fullstack-projects) |
+| Cloud & DevOps | [cloud-devops-projects](https://github.com/aws-sbg-gomal/cloud-devops-projects) |
+| AI & Machine Learning | [ai-ml-projects](https://github.com/aws-sbg-gomal/ai-ml-projects) |
+| Full Stack Development | [fullstack-projects](https://github.com/aws-sbg-gomal/fullstack-projects) |
 
 Browse the open issues to find something to work on, or open a new issue to propose a project.
 
@@ -71,13 +71,13 @@ Browse the open issues to find something to work on, or open a new issue to prop
 2. Rename it to your project name (lowercase, hyphens, e.g. `serverless-cost-dashboard`).
 3. Fill in the `README.md` inside your project folder.
 4. Create a `feature/` branch and start building.
-5. Submit a pull request following the process in [CONTRIBUTING.md](https://github.com/aws-gomal-university/.github/blob/main/CONTRIBUTING.md).
+5. Submit a pull request following the process in [CONTRIBUTING.md](https://github.com/aws-sbg-gomal/.github/blob/main/CONTRIBUTING.md).
 
 ---
 
 ## Getting Help
 
-If you have a question, do not open a GitHub Issue. Use [GitHub Discussions](https://github.com/aws-gomal-university/.github/discussions) instead:
+If you have a question, do not open a GitHub Issue. Use [GitHub Discussions](https://github.com/aws-sbg-gomal/.github/discussions) instead:
 
 - **Q&A** — for technical questions and help requests
 - **Project Ideas** — for early-stage project proposals
