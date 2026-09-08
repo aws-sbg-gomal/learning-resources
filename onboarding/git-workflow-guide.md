@@ -23,7 +23,7 @@ All work happens on a `feature/` branch. Changes are merged into `dev` via pull 
 ### 1. Clone the track repository
 
 ```bash
-git clone https://github.com/aws-gomal-university/<track-repo>.git
+git clone https://github.com/aws-sbg-gomal/<track-repo>.git
 cd <track-repo>
 ```
 
